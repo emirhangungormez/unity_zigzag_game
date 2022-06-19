@@ -1,4 +1,4 @@
-# Unity Zigzag Oyunu
+# Unity - Zigzag Game
 • "assets" dosyasını unity projenizin içerisine atarak oyuna sahip olabilirsiniz, kodları yeniden entegre etmeyi unutmayın.
 materials, textures, codes dosyalarının hepsi dosyanın içerisindedir. yanlış entegre problemleri sonucunda dosyalara ulaşabilir
 ve sorunları giderebilirsiniz.
